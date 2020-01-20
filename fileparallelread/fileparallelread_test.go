@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mannharleen/goParallelRead/utils"
+	"github.com/mannharleen/go-fileparallelread/utils"
 )
 
 func TestGetSectionReadersUsingMultipleHandle(t *testing.T) {
